@@ -1,7 +1,7 @@
 import requests
 url_0 = "https://jira-uat.us.oracle.com/jira"
 url = "https://jira-uat.us.oracle.com/jira"
-data = {"username": "sainath.gorige@oracle.com", "password": "*****"}
+data = {"username": , "password": "*****"}
 
 s = requests.session()
 s.get(url_0)
